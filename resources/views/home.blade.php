@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.multikart.app')
 
 @section('content')
 <div class="container">
